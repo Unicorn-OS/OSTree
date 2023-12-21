@@ -1,0 +1,1 @@
+- [Understanding how /etc is handled in Silverblue](https://discussion.fedoraproject.org/t/understanding-how-etc-is-handled-in-silverblue/17773)
